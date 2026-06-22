@@ -1,6 +1,22 @@
 {
   "sessions": [
     {
+      "id": "tdiwtrj",
+      "date": "2026-06-21",
+      "muscleGroup": "Arms",
+      "exercises": [
+        {
+          "name": "Rope Curls Infront",
+          "sets": [
+            {
+              "lbs": "5",
+              "reps": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "w19xal5",
       "date": "2026-06-22",
       "muscleGroup": "Chest & Back",
@@ -2798,6 +2814,6 @@
       ]
     }
   ],
-  "exportedAt": "2026-06-22T01:46:57.214Z",
+  "exportedAt": "2026-06-22T01:49:44.546Z",
   "version": 2
 }
